@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Server
-build_property.ProjectDir = D:\大学学习资料\计算机网络\三级项目\三级项目（最终版）\服务器\Server\
+build_property.ProjectDir = D:\大学学习资料\计算机网络\三级项目\智能充电桩项目（最终版）\服务器\Server\

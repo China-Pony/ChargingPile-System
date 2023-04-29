@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\大学学习资料\\计算机网络\\三级项目\\三级项目（最终版）\\服务器\\Server\\Server.csproj",
+      "projectUniqueName": "D:\\大学学习资料\\计算机网络\\三级项目\\智能充电桩项目（最终版）\\服务器\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\大学学习资料\\计算机网络\\三级项目\\三级项目（最终版）\\服务器\\Server\\Server.csproj",
+      "projectPath": "D:\\大学学习资料\\计算机网络\\三级项目\\智能充电桩项目（最终版）\\服务器\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\辉\\.nuget\\packages\\",
-      "outputPath": "D:\\大学学习资料\\计算机网络\\三级项目\\三级项目（最终版）\\服务器\\Server\\obj\\",
+      "outputPath": "D:\\大学学习资料\\计算机网络\\三级项目\\智能充电桩项目（最终版）\\服务器\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VS共享组件、工具和SDK\\NuGetPackages"
