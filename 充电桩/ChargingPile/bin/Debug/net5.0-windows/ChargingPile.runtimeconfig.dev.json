@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\辉\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\辉\\.nuget\\packages",
+      "D:\\VS共享组件、工具和SDK\\NuGetPackages"
+    ]
+  }
+}
